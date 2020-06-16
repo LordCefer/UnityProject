@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Inimigo
   - Moeda
+  - Limite
+  - FimFase
   layers:
   - Default
   - TransparentFX
